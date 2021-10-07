@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Github Stats
+--
+
 <p>
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collisionspace&theme=chartreuse-dark" alt="Collisionspace"/>
 </p>
