@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collisionspace&theme=chartreuse-dark" alt="Collisionspace"/>
+</p>
+<p>
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=Collisionspace&show_icons=true&locale=en&count_private=true &hide_border=false&theme=chartreuse-dark" alt="Collisionspace" />
+</p>
+	<img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=Collisionspace&hide_border=true&theme=chartreuse-dark" />
+</p>
