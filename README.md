@@ -24,5 +24,3 @@ Github Stats
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=Collisionspace&show_icons=true&locale=en&count_private=true &hide_border=false&theme=chartreuse-dark" alt="Collisionspace" />
 </p>
-	<img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=Collisionspace&hide_border=true&theme=chartreuse-dark" />
-</p>
